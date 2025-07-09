@@ -29,9 +29,9 @@ Incluye toda la documentación generada durante el semestre: diseño arquitectó
 
 ## Integrantes del equipo
 
-- **Nicolás Fernández** – Coordinación general, arquitectura del sistema.
-- **Diego Iturra** – Desarrollo de lógica de negocio y diagramas.
-- **Ignacio Valeria** – Análisis de requisitos, diseño del prototipo.
+- **Nicolás Fernández** 
+- **Diego Iturra**
+- **Ignacio Valeria** 
 
 ---
 
