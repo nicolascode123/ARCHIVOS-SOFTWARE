@@ -12,7 +12,7 @@ Incluye toda la documentación generada durante el semestre: diseño arquitectó
 - `Presentacion-Final-Salida-Vehiculos.pptx`: Presentación final del proyecto.
 - `Evaluacion-Heuristica.xlsx`: Planilla de evaluación del prototipo utilizando las 10 heurísticas de Nielsen.
 - `link-prototipo.txt`: Contiene el enlace al prototipo funcional diseñado en Figma.
-- `diagramas/`: Carpeta con diagramas UML generados en StarUML (Casos de Uso, Clases, Componentes, Actividades, Despliegue) exportados en PDF.
+- `diagramas/`: Carpeta con diagramas UML generados en StarUML (Casos de Uso, Clases, Componentes, Actividades, Despliegue) exportados en PDF. y a la vez el starUML.
 - `carta-gantt.xlsx`: Cronograma del proyecto con fechas, entregables y duración de cada fase.
 - `planilla-requerimientos.xlsx`: Requisitos funcionales y no funcionales del sistema, organizados y validados.
 
